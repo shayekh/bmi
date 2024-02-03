@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 
-const backgroundColor = Colors.lightBlue;
+const backgroundColor = Colors.orange;
 
 const txtLebelStyle = TextStyle(
-  color: Colors.white70,
+  color: Colors.black,
   fontSize: 22,
 );
 
 const txtValueStyle = TextStyle(
-  color: Colors.white,
+  color: Colors.black,
   fontSize: 40,
 );
 
