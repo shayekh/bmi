@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-const backgroundColor = Colors.orange;
+const backgroundColor = Colors.amberAccent;
 
 const txtLebelStyle = TextStyle(
   color: Colors.black,
@@ -10,6 +10,13 @@ const txtLebelStyle = TextStyle(
 const txtValueStyle = TextStyle(
   color: Colors.black,
   fontSize: 40,
+);
+
+const txtResultStyle = TextStyle(
+letterSpacing: 1.2,
+fontSize: 25,
+fontWeight: FontWeight.bold,
+color: Colors.white,
 );
 
 abstract final class BMI {
